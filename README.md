@@ -1,2 +1,4 @@
 # SentGenPOS
-A repository for generating sentences probabilistically using parts of speech
+# A repository for a chatbot.
+import sqlite3
+import json
